@@ -1,0 +1,21 @@
+﻿using UnityEngine;
+using UnityEditor;
+
+using System.Collections;
+using System.Collections.Generic;
+
+using NUnit.Framework;
+
+namespace Default.Tests
+{
+	public class #SCRIPTNAME# 
+	{
+
+		[Test]
+		public void EditorTest()
+		{
+
+		}
+
+	}	
+}
